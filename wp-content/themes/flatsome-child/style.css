@@ -1,0 +1,105 @@
+/*
+Theme Name: Flatsome Child
+Description: NamKiem developed for Flatsome Theme
+Author: UX Themes
+Template: flatsome
+Version: 3.11.3
+*/
+
+/*************** ADD CUSTOM CSS HERE.   ***************/
+/*
+Bạn có thể thêm CSS ở đây.
+
+Nhấp chuột vào biểu tượng trợ giúp phía trên để tìm hiểu thêm.
+*/
+#wide-nav > .flex-row > .flex-left{width: 25%;
+	max-width: 294px;
+	margin-right: 15px;
+}
+#mega-menu-wrap{background: #744c29; height: 50px;}
+#mega-menu-title{padding: 13px 0 10px 15px;}
+#mega_menu > li > a{padding-left:10px}
+.menu-item img._before{margin-right: 10px}
+#mega_menu > li >a>span{color:black}
+#mega_menu li a{padding: 11px 15px;}
+.header:not(.transparent) .header-bottom-nav.nav > li > a {
+	color: #424242;
+	font-weight: normal;}
+#mega-menu-title{    font-family: "Roboto", sans-serif;}
+.slider .tin-tuc .box-text h5{font-weight: normal;
+	color: #464646;}
+.box-blog-post .is-divider{display:none}
+.slider .tin-tuc .col{    padding: 0 15px 0px;}
+.slider .tin-tuc .box-vertical .box-text{padding-right:0; padding-left:10px;     vertical-align: top;    padding-top: .7em;    padding-bottom: 17px; text-align: justify}
+.slider .tin-tuc .box-vertical{    padding-bottom: 1px}
+
+.nav-dark .form-flat input:not([type="submit"]){    background-color: rgba(255, 255, 255, 0.3) !important;
+	border-color: rgba(255,255,255,0.09);
+	color: #FFF;
+	height: 35px;
+	border-radius: 6px;
+	margin-left: 3px;}
+.sp-noi-bat .title .col{    padding: 0 15px 10px;}
+.badge-container{margin:5px}
+.badge-inner.on-sale {
+	background-color: #00A502;
+	border-radius: 99px;}
+.price-wrapper .price ins span{color:#bc0000; font-size:15px}
+.price-wrapper del span{color:gray; font-size:15px}
+.title-wrapper a{color: black}
+.title-wrapper a:hover{color:#fac100}
+.price-wrapper span.amount{ font-size:15px}
+span.amount{color:#bc0000}
+.title-wrapper{height: 50px; overflow: hidden; font-size:15px}
+.sp-noi-bat .product .box-text{padding-bottom: 0;}
+.sp-noi-bat .product .flickity-prev-next-button.next, .sp-noi-bat .product .flickity-prev-next-button.previous {top:20px}
+.sp-noi-bat .product .flickity-viewport>.flickity-slider>.col{padding: 10px; background: white}
+.sp-noi-bat .product .banner-image {padding:0}
+.catelogy .row .col{    padding: 0 9.8px 0px;}
+.catelogy .row .sidebar{border: 1px solid  #ececec; padding:0px}
+.catelogy .row .sidebar a{color: black}
+.catelogy .row .sidebar ul.menu>li>a{padding: 8px 0}
+.catelogy .row .sidebar ul.menu>li{margin-left:10px; margin-right:10px}
+.catelogy .row .sidebar .col-inner ul li{margin-left:10px;}
+.catelogy .row .product{border-top: 1px solid  #ececec;border-right: 1px solid  #ececec;border-bottom: 1px solid  #ececec;padding-top:10px}
+.catelogy .row .product .col{border:none;padding-top:0px}
+.cam-ket .row-large>.col{    padding: 0 30px 10px;}
+.footer .row .thong-tin-chung a, .footer .row .danh-muc a{color:#474747}
+.footer .row .danh-muc a:hover{color:#FEB041}
+.footer .row .danh-muc .col-inner ul li{margin-left:0;    border-bottom: 1px dotted #d4d4d4;}
+.footer .row .san-pham .row-small>.col{padding: 0 9.8px 0px;}
+.footer .row .san-pham .title-wrapper a{font-size:14px}
+.footer .row-small>.col{padding: 0 9.8px 0px;}
+.footer .row .san-pham .badge-container{display:none}
+.footer .row p{margin-bottom:0}
+.breadcrumbs{text-transform: none;}
+.breadcrumb a{color:rgb(250, 193, 0)}
+.product-main .price-wrapper span.amount{font-size:25px}
+.product-footer .woocommerce-tabs>.nav-line:not(.nav-vertical){background: #f3f3f3;
+	border-bottom: 1px solid #fac100;}
+.product-footer .nav>li{    margin: 0; font-size:20px;}
+.product-footer .nav>li a{padding-left:10px; padding-right:10px;  font-weight: normal }
+.product-footer .nav>li.active>a{    background: #fac100;}
+.note-san-pham{border: 1px solid #dadada;
+	border-radius: 4px;
+	padding: 10px;
+	margin-bottom: 10px;}
+.product-main{padding: 0px 0;}
+.product-main .col{padding: 0 15px 10px;}
+span.widget-title{font-size: 18px;
+	letter-spacing: 0;
+	color: black;}
+#product-sidebar .adress-sidebar{border: 1px solid #dadada; padding:10px; border-radius: 10px}
+.article-inner .entry-image img,  footer.entry-meta{display:none}
+.article-inner .badge.post-date{display:none}
+
+
+
+
+@media only screen and (max-width: 48em) {
+	/*************** ADD MOBILE ONLY CSS HERE  ***************/
+
+}
+@media (max-width: 549px)
+{.header-top{display:none} .slider .tin-tuc{display:none !important}
+}

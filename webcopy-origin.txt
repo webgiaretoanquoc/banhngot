@@ -1,0 +1,2068 @@
+Uri: http://media.bizwebmedia.net/sites/99870/data/Upload/2015/12/bo_co_quet_spatula.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\sites\99870\data\Upload\2015\12\bo_co_quet_spatula.jpg
+Content Type: image/jpeg
+
+Uri: http://media.bizwebmedia.net/sites/99870/data/Upload/2015/12/bo_lat_president.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\sites\99870\data\Upload\2015\12\bo_lat_president.jpg
+Content Type: image/jpeg
+
+Uri: http://media.bizwebmedia.net/sites/99870/data/Upload/2016/2/bot_cao_cao_premier_win.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\sites\99870\data\Upload\2016\2\bot_cao_cao_premier_win.jpg
+Content Type: image/jpeg
+
+Uri: http://media.bizwebmedia.net/sites/99870/data/Upload/2016/2/caccao_premier_win.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\sites\99870\data\Upload\2016\2\caccao_premier_win.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/author/admin/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\author\admin\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/author/admin/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/cac-mon-thach-cuc-ky-hap-dan-o-ha-noi-trong-ngay-he/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\cac-mon-thach-cuc-ky-hap-dan-o-ha-noi-trong-ngay-he\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/cac-mon-thach-cuc-ky-hap-dan-o-ha-noi-trong-ngay-he/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\cac-mon-thach-cuc-ky-hap-dan-o-ha-noi-trong-ngay-he\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/cach-lam-banh-troi-banh-chay-don-gian-nhat-cho-tet-han-thuc/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\cach-lam-banh-troi-banh-chay-don-gian-nhat-cho-tet-han-thuc\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/cach-lam-banh-troi-banh-chay-don-gian-nhat-cho-tet-han-thuc/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\cach-lam-banh-troi-banh-chay-don-gian-nhat-cho-tet-han-thuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/category/huong-dan-lam-banh/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\category\huong-dan-lam-banh\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/category/huong-dan-lam-banh/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\category\huong-dan-lam-banh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/category/tin-tuc/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\category\tin-tuc\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/category/tin-tuc/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\category\tin-tuc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/chao-moi-nguoi/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\chao-moi-nguoi\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/chao-moi-nguoi/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\chao-moi-nguoi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/chinh-sach-doi-tra-hang/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\chinh-sach-doi-tra-hang\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/chinh-sach-giao-hang/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\chinh-sach-giao-hang\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/comments/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/cua-hang/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\cua-hang\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/cua-hang/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\cua-hang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/cua-hang/page/2/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\cua-hang\page\2\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/dung-cu-lam-banh/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\dung-cu-lam-banh\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/dung-cu-lam-banh/bat-tron-bot/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\dung-cu-lam-banh\bat-tron-bot\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/dung-cu-lam-banh/bat-tron-bot/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\dung-cu-lam-banh\bat-tron-bot\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/dung-cu-lam-banh/can-co-dinh-luong/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\dung-cu-lam-banh\can-co-dinh-luong\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/dung-cu-lam-banh/can-co-dinh-luong/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\dung-cu-lam-banh\can-co-dinh-luong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/dung-cu-lam-banh/chay-can/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\dung-cu-lam-banh\chay-can\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/dung-cu-lam-banh/chay-can/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\dung-cu-lam-banh\chay-can\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/dung-cu-lam-banh/dao-dung-cu-cat/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\dung-cu-lam-banh\dao-dung-cu-cat\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/dung-cu-lam-banh/dao-dung-cu-cat/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\dung-cu-lam-banh\dao-dung-cu-cat\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/dung-cu-lam-banh/dung-cu-fondant-gumpaste/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\dung-cu-lam-banh\dung-cu-fondant-gumpaste\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/dung-cu-lam-banh/dung-cu-fondant-gumpaste/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\dung-cu-lam-banh\dung-cu-fondant-gumpaste\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/dung-cu-lam-banh/dung-cu-trang-tri/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\dung-cu-lam-banh\dung-cu-trang-tri\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/dung-cu-lam-banh/dung-cu-trang-tri/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\dung-cu-lam-banh\dung-cu-trang-tri\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/dung-cu-lam-banh/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\dung-cu-lam-banh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/dung-cu-lam-banh/phoi-long-phoi-det/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\dung-cu-lam-banh\phoi-long-phoi-det\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/dung-cu-lam-banh/phoi-long-phoi-det/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\dung-cu-lam-banh\phoi-long-phoi-det\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/dung-cu-lam-banh/tam-nuong-giay-nen/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\dung-cu-lam-banh\tam-nuong-giay-nen\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/dung-cu-lam-banh/tam-nuong-giay-nen/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\dung-cu-lam-banh\tam-nuong-giay-nen\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/dung-cu-lam-banh/thia-coc-dong/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\dung-cu-lam-banh\thia-coc-dong\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/dung-cu-lam-banh/thia-coc-dong/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\dung-cu-lam-banh\thia-coc-dong\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/may-moc-thiet-bi-nganh-banh/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\may-moc-thiet-bi-nganh-banh\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/may-moc-thiet-bi-nganh-banh/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\may-moc-thiet-bi-nganh-banh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/nguyen-lieu-lam-banh/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\nguyen-lieu-lam-banh\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/nguyen-lieu-lam-banh/bo-kem-sua-pho-mai/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\nguyen-lieu-lam-banh\bo-kem-sua-pho-mai\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/nguyen-lieu-lam-banh/bo-kem-sua-pho-mai/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\nguyen-lieu-lam-banh\bo-kem-sua-pho-mai\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/nguyen-lieu-lam-banh/cac-loai-bot-lam-banh/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\nguyen-lieu-lam-banh\cac-loai-bot-lam-banh\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/nguyen-lieu-lam-banh/cac-loai-bot-lam-banh/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\nguyen-lieu-lam-banh\cac-loai-bot-lam-banh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/nguyen-lieu-lam-banh/cac-loai-chocolate/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\nguyen-lieu-lam-banh\cac-loai-chocolate\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/nguyen-lieu-lam-banh/cac-loai-chocolate/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\nguyen-lieu-lam-banh\cac-loai-chocolate\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/nguyen-lieu-lam-banh/cac-nguyen-lieu-khac/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\nguyen-lieu-lam-banh\cac-nguyen-lieu-khac\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/nguyen-lieu-lam-banh/cac-nguyen-lieu-khac/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\nguyen-lieu-lam-banh\cac-nguyen-lieu-khac\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/nguyen-lieu-lam-banh/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\nguyen-lieu-lam-banh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/nguyen-lieu-lam-banh/huong-lieu-gia-vi/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\nguyen-lieu-lam-banh\huong-lieu-gia-vi\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/nguyen-lieu-lam-banh/huong-lieu-gia-vi/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\nguyen-lieu-lam-banh\huong-lieu-gia-vi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/nguyen-lieu-lam-banh/mau-thuc-pham/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\nguyen-lieu-lam-banh\mau-thuc-pham\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/nguyen-lieu-lam-banh/mau-thuc-pham/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\nguyen-lieu-lam-banh\mau-thuc-pham\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/nguyen-lieu-lam-banh/men-phu-gia-thuc-pham/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\nguyen-lieu-lam-banh\men-phu-gia-thuc-pham\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/nguyen-lieu-lam-banh/men-phu-gia-thuc-pham/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\nguyen-lieu-lam-banh\men-phu-gia-thuc-pham\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/nguyen-lieu-lam-banh/mut-siro-qua-hat-kho/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\nguyen-lieu-lam-banh\mut-siro-qua-hat-kho\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/nguyen-lieu-lam-banh/mut-siro-qua-hat-kho/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\nguyen-lieu-lam-banh\mut-siro-qua-hat-kho\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/nguyen-lieu-lam-banh/phu-kien-trang-tri-nguyen-lieu-lam-banh/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\nguyen-lieu-lam-banh\phu-kien-trang-tri-nguyen-lieu-lam-banh\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/nguyen-lieu-lam-banh/phu-kien-trang-tri-nguyen-lieu-lam-banh/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\nguyen-lieu-lam-banh\phu-kien-trang-tri-nguyen-lieu-lam-banh\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/nguyen-lieu-pha-che/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\nguyen-lieu-pha-che\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/nguyen-lieu-pha-che/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\nguyen-lieu-pha-che\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/phu-kien-trang-tri/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\phu-kien-trang-tri\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/phu-kien-trang-tri/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\phu-kien-trang-tri\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/xem-them-khuyen-mai/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\xem-them-khuyen-mai\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/danh-muc/xem-them-khuyen-mai/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\danh-muc\xem-them-khuyen-mai\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/hang-moi-ve/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\hang-moi-ve\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/home/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\home\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/lien-he/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\lien-he\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/lop-hoc-lam-banh/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\lop-hoc-lam-banh\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/mach-ban-cach-an-banh-trung-thu-ma-van-giu-duoc-voc-dang/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\mach-ban-cach-an-banh-trung-thu-ma-van-giu-duoc-voc-dang\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/mach-ban-cach-an-banh-trung-thu-ma-van-giu-duoc-voc-dang/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\mach-ban-cach-an-banh-trung-thu-ma-van-giu-duoc-voc-dang\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/san-pham/bo-co-quet-spatula/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\san-pham\bo-co-quet-spatula\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/san-pham/bo-co-quet-spatula/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\san-pham\bo-co-quet-spatula\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/san-pham/bo-lat-president-250g/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\san-pham\bo-lat-president-250g\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/san-pham/bo-lat-president-250g/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\san-pham\bo-lat-president-250g\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/san-pham/bot-cacao-premier-win-250gr/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\san-pham\bot-cacao-premier-win-250gr\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/san-pham/bot-cacao-premier-win-250gr/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\san-pham\bot-cacao-premier-win-250gr\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/san-pham/bot-lam-banh-3-bong-hong-xanh-500g/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\san-pham\bot-lam-banh-3-bong-hong-xanh-500g\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/san-pham/bot-lam-banh-3-bong-hong-xanh-500g/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\san-pham\bot-lam-banh-3-bong-hong-xanh-500g\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/san-pham/bot-my-hoa-ngoc-lan-1kg-han-quoc/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\san-pham\bot-my-hoa-ngoc-lan-1kg-han-quoc\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/san-pham/bot-my-hoa-ngoc-lan-1kg-han-quoc/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\san-pham\bot-my-hoa-ngoc-lan-1kg-han-quoc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/san-pham/bot-my-hoa-ngoc-lan-1kg/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\san-pham\bot-my-hoa-ngoc-lan-1kg\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/san-pham/bot-my-hoa-ngoc-lan-1kg/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\san-pham\bot-my-hoa-ngoc-lan-1kg\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/san-pham/combo-san-pham-decor-chup-anh-tren-da-cam-thach/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\san-pham\combo-san-pham-decor-chup-anh-tren-da-cam-thach\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/san-pham/combo-san-pham-decor-chup-anh-tren-da-cam-thach/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\san-pham\combo-san-pham-decor-chup-anh-tren-da-cam-thach\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/san-pham/duong-ngoc-trai-amoza-300gr-han-quoc/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\san-pham\duong-ngoc-trai-amoza-300gr-han-quoc\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/san-pham/duong-ngoc-trai-amoza-300gr-han-quoc/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\san-pham\duong-ngoc-trai-amoza-300gr-han-quoc\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/san-pham/hat-phi-phet-cacao-nutella-680g/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\san-pham\hat-phi-phet-cacao-nutella-680g\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/san-pham/hat-phi-phet-cacao-nutella-680g/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\san-pham\hat-phi-phet-cacao-nutella-680g\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/san-pham/keo-trang-tri-hat-mau-sac-premierwin-500g/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\san-pham\keo-trang-tri-hat-mau-sac-premierwin-500g\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/san-pham/keo-trang-tri-hat-mau-sac-premierwin-500g/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\san-pham\keo-trang-tri-hat-mau-sac-premierwin-500g\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/san-pham/mau-do-giang-sinh-wilton-nhap-khau-nhat-ban/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\san-pham\mau-do-giang-sinh-wilton-nhap-khau-nhat-ban\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/san-pham/mau-do-giang-sinh-wilton-nhap-khau-nhat-ban/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\san-pham\mau-do-giang-sinh-wilton-nhap-khau-nhat-ban\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/san-pham/mut-dua-imperial-thai-lan-280g-chat-luong-cao/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\san-pham\mut-dua-imperial-thai-lan-280g-chat-luong-cao\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/san-pham/mut-dua-imperial-thai-lan-280g-chat-luong-cao/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\san-pham\mut-dua-imperial-thai-lan-280g-chat-luong-cao\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/san-pham/ramenkin-mau-sac-loai-to-xuat-xu-nhat-ban/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\san-pham\ramenkin-mau-sac-loai-to-xuat-xu-nhat-ban\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/san-pham/ramenkin-mau-sac-loai-to-xuat-xu-nhat-ban/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\san-pham\ramenkin-mau-sac-loai-to-xuat-xu-nhat-ban\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/tai-khoan/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\tai-khoan\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/tai-khoan/lost-password/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\tai-khoan\lost-password\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/tich-luy-diem-thuong/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\tich-luy-diem-thuong\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/tim-hieu-nguon-goc-va-y-nghia-cua-banh-trung-thu/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\tim-hieu-nguon-goc-va-y-nghia-cua-banh-trung-thu\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/tim-hieu-nguon-goc-va-y-nghia-cua-banh-trung-thu/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\tim-hieu-nguon-goc-va-y-nghia-cua-banh-trung-thu\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/tin-tuc-bai-viet/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\tin-tuc-bai-viet\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/tro-ve-tuoi-tho-voi-cach-lam-banh-duong-thom-lung-can-bep/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\tro-ve-tuoi-tho-voi-cach-lam-banh-duong-thom-lung-can-bep\index.htm
+Content Type: text/html
+
+Uri: https://banhngot.webtudong8giay.com/tro-ve-tuoi-tho-voi-cach-lam-banh-duong-thom-lung-can-bep/feed/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\tro-ve-tuoi-tho-voi-cach-lam-banh-duong-thom-lung-can-bep\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://banhngot.webtudong8giay.com/wp-admin/js/password-strength-meter.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-admin\js\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.6.4
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.6.4
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/css/font-awesome.min.css?ver=4.7.0
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.woff2
+Content Type: 
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/font-awesome-4-menus/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\font-awesome-4-menus\fonts\fontawesome-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/assets/css/style.css?ver=1.2.3
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\assets\css\style.css
+Content Type: text/css
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/assets/js/ot-vertical-menu.min.js?ver=1.2.3
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\assets\js\ot-vertical-menu.min.js
+Content Type: application/javascript
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/assets/vendor/superfish/hoverIntent.js?ver=1.2.3
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\assets\vendor\superfish\hoverIntent.js
+Content Type: application/javascript
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/assets/vendor/superfish/superfish.min.js?ver=1.2.3
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\assets\vendor\superfish\superfish.min.js
+Content Type: application/javascript
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/ot-flatsome-vertical-menu/libs/menu-icons/css/extra.min.css?ver=0.12.2
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\ot-flatsome-vertical-menu\libs\menu-icons\css\extra.min.css
+Content Type: text/css
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.min.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.min.css
+Content Type: text/css
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/default-skin.svg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/default-skin/preloader.gif
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\default-skin\preloader.gif
+Content Type: image/gif
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/photoswipe/photoswipe.min.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\photoswipe\photoswipe.min.css
+Content Type: text/css
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/woocommerce/assets/css/select2.css?ver=7.1.0
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\woocommerce\assets\css\select2.css
+Content Type: text/css
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\add-to-cart.min.js
+Content Type: application/javascript
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\cart-fragments.min.js
+Content Type: application/javascript
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/lost-password.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\lost-password.min.js
+Content Type: application/javascript
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/password-strength-meter.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\password-strength-meter.min.js
+Content Type: application/javascript
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/single-product.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\single-product.min.js
+Content Type: application/javascript
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=7.1.0
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\frontend\woocommerce.min.js
+Content Type: application/javascript
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.7.0-wc.7.1.0
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\jquery-blockui\jquery.blockUI.min.js
+Content Type: application/javascript
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min.js?ver=2.1.4-wc.7.1.0
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\js-cookie\js.cookie.min.js
+Content Type: application/javascript
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe-ui-default.min.js?ver=4.1.1-wc.7.1.0
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe-ui-default.min.js
+Content Type: application/javascript
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/photoswipe/photoswipe.min.js?ver=4.1.1-wc.7.1.0
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\photoswipe\photoswipe.min.js
+Content Type: application/javascript
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/woocommerce/assets/js/selectWoo/selectWoo.full.min.js?ver=1.0.9-wc.7.1.0
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\woocommerce\assets\js\selectWoo\selectWoo.full.min.js
+Content Type: application/javascript
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-style.css
+Content Type: text/css
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/plugins/woocommerce/packages/woocommerce-blocks/build/wc-blocks-vendors-style.css?ver=8.7.5
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\plugins\woocommerce\packages\woocommerce-blocks\build\wc-blocks-vendors-style.css
+Content Type: text/css
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/themes/flatsome-child/style.css?ver=3.11.3
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\themes\flatsome-child\style.css
+Content Type: text/css
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/themes/flatsome/assets/css/fl-icons.css?ver=3.12
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\themes\flatsome\assets\css\fl-icons.css
+Content Type: text/css
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome-shop.css?ver=3.13.0
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome-shop.css
+Content Type: text/css
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/themes/flatsome/assets/css/flatsome.css?ver=3.13.0
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\themes\flatsome\assets\css\flatsome.css
+Content Type: text/css
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.eot
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.svg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.ttf
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/themes/flatsome/assets/css/icons/fl-icons.woff2
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\themes\flatsome\assets\css\icons\fl-icons.woff2
+Content Type: 
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/themes/flatsome/assets/img/shadow@2x.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\themes\flatsome\assets\img\shadow@2x.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/themes/flatsome/assets/img/underline.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\themes\flatsome\assets\img\underline.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/themes/flatsome/assets/js/flatsome.js?ver=3.13.0
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\themes\flatsome\assets\js\flatsome.js
+Content Type: application/javascript
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/themes/flatsome/assets/js/woocommerce.js?ver=3.13.0
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\themes\flatsome\assets\js\woocommerce.js
+Content Type: application/javascript
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/themes/flatsome/assets/libs/packery.pkgd.min.js?ver=3.13.0
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\themes\flatsome\assets\libs\packery.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/themes/flatsome/inc/extensions/flatsome-live-search/flatsome-live-search.js?ver=3.13.0
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\themes\flatsome\inc\extensions\flatsome-live-search\flatsome-live-search.js
+Content Type: application/javascript
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/1140709bot-hoa-ngoc-lan-100x100.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\1140709bot-hoa-ngoc-lan-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/1140709bot-hoa-ngoc-lan-150x150.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\1140709bot-hoa-ngoc-lan-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/1140709bot-hoa-ngoc-lan-247x296.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\1140709bot-hoa-ngoc-lan-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/1140709bot-hoa-ngoc-lan-300x300.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\1140709bot-hoa-ngoc-lan-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/1140709bot-hoa-ngoc-lan.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\1140709bot-hoa-ngoc-lan.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/banner2-300x200.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\banner2-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/banner2-510x339.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\banner2-510x339.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/banner2.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\banner2.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/banner4-300x255.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\banner4-300x255.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/banner4-510x433.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\banner4-510x433.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/banner4.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\banner4.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/bannerr-300x200.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\bannerr-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/bannerr-510x339.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\bannerr-510x339.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/bannerr.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\bannerr.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/bo-nhat-president-100x100.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\bo-nhat-president-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/bo-nhat-president-150x150.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\bo-nhat-president-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/bo-nhat-president-247x296.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\bo-nhat-president-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/bo-nhat-president-300x300.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\bo-nhat-president-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/bo-nhat-president.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\bo-nhat-president.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/bot-cacao-premier-win-1-100x100.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\bot-cacao-premier-win-1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/bot-cacao-premier-win-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\bot-cacao-premier-win-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/bot-cacao-premier-win-1-247x296.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\bot-cacao-premier-win-1-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/bot-cacao-premier-win-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\bot-cacao-premier-win-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/bot-cacao-premier-win-1.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\bot-cacao-premier-win-1.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/bot-my-bong-hong-xanh-247x296.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\bot-my-bong-hong-xanh-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/bot-my-bong-hong-xanh-300x257.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\bot-my-bong-hong-xanh-300x257.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/bot-my-bong-hong-xanh.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\bot-my-bong-hong-xanh.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/bo_co_quet_spatula-247x296.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\bo_co_quet_spatula-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/bo_co_quet_spatula-300x259.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\bo_co_quet_spatula-300x259.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/bo_co_quet_spatula.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\bo_co_quet_spatula.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/brand_1_block_home_2-1.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\brand_1_block_home_2-1.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/brand_1_block_home_3.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\brand_1_block_home_3.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/brand_2_block_home_1-2.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\brand_2_block_home_1-2.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/brand_2_block_home_2-2.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\brand_2_block_home_2-2.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/brand_2_block_home_3.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\brand_2_block_home_3.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/brand_3_block_home_1.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\brand_3_block_home_1.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/brand_3_block_home_2.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\brand_3_block_home_2.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/brand_3_block_home_3-1-1.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\brand_3_block_home_3-1-1.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/brand_3_block_home_3-1.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\brand_3_block_home_3-1.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/brand_4_block_home_1.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\brand_4_block_home_1.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/brand_4_block_home_2-1.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\brand_4_block_home_2-1.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/brand_4_block_home_2.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\brand_4_block_home_2.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/brand_4_block_home_3-1.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\brand_4_block_home_3-1.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/brand_5_block_home_2-1.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\brand_5_block_home_2-1.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/brand_5_block_home_3-1.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\brand_5_block_home_3-1.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/brand_5_block_home_3.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\brand_5_block_home_3.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/brand_6_block_home_2-1-1.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\brand_6_block_home_2-1-1.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/brand_6_block_home_2-1.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\brand_6_block_home_2-1.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/cach-lam-banh-troi-nuoc-tuyet-ngon-1-300x225.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\cach-lam-banh-troi-nuoc-tuyet-ngon-1-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/cach-lam-banh-troi-nuoc-tuyet-ngon-1-510x383.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\cach-lam-banh-troi-nuoc-tuyet-ngon-1-510x383.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/cach-lam-banh-troi-nuoc-tuyet-ngon-1.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\cach-lam-banh-troi-nuoc-tuyet-ngon-1.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/catelogy-image-300x200.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\catelogy-image-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/catelogy-image-510x340.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\catelogy-image-510x340.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/catelogy-image-768x512.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\catelogy-image-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/catelogy-image.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\catelogy-image.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/dung-cu-lam-banh-300x200.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\dung-cu-lam-banh-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/dung-cu-lam-banh-510x340.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\dung-cu-lam-banh-510x340.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/dung-cu-lam-banh-768x512.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\dung-cu-lam-banh-768x512.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/dung-cu-lam-banh.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\dung-cu-lam-banh.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/duong-ngoc-trai-amoza-100x100.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\duong-ngoc-trai-amoza-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/duong-ngoc-trai-amoza-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\duong-ngoc-trai-amoza-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/duong-ngoc-trai-amoza-150x150.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\duong-ngoc-trai-amoza-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/duong-ngoc-trai-amoza-247x296.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\duong-ngoc-trai-amoza-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/duong-ngoc-trai-amoza-300x300.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\duong-ngoc-trai-amoza-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/duong-ngoc-trai-amoza-510x510.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\duong-ngoc-trai-amoza-510x510.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/duong-ngoc-trai-amoza-768x768.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\duong-ngoc-trai-amoza-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/duong-ngoc-trai-amoza.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\duong-ngoc-trai-amoza.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/free-ship-100x100.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\free-ship-100x100.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/free-ship-150x150.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\free-ship-150x150.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/free-ship-300x300.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\free-ship-300x300.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/free-ship.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\free-ship.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/gluten-free-salad-cake-1-300x225.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\gluten-free-salad-cake-1-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/gluten-free-salad-cake-1-510x383.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\gluten-free-salad-cake-1-510x383.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/gluten-free-salad-cake-1-768x576.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\gluten-free-salad-cake-1-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/gluten-free-salad-cake-1.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\gluten-free-salad-cake-1.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/header-bg.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\header-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/hotline-icon-100x100.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\hotline-icon-100x100.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/hotline-icon-150x150.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\hotline-icon-150x150.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/hotline-icon-300x300.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\hotline-icon-300x300.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/hotline-icon.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\hotline-icon.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/icon-2.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\icon-2.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/icon-4.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\icon-4.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/icon-home-100x100.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\icon-home-100x100.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/icon-home-150x150.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\icon-home-150x150.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/icon-home-300x300.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\icon-home-300x300.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/icon-home.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\icon-home.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/icon-ship.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\icon-ship.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/keo-trang-tri-premier-win-3-fcea24aa-feae-4574-919c-40236b9cef11-100x100.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\keo-trang-tri-premier-win-3-fcea24aa-feae-4574-919c-40236b9cef11-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/keo-trang-tri-premier-win-3-fcea24aa-feae-4574-919c-40236b9cef11-150x150.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\keo-trang-tri-premier-win-3-fcea24aa-feae-4574-919c-40236b9cef11-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/keo-trang-tri-premier-win-3-fcea24aa-feae-4574-919c-40236b9cef11-247x296.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\keo-trang-tri-premier-win-3-fcea24aa-feae-4574-919c-40236b9cef11-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/keo-trang-tri-premier-win-3-fcea24aa-feae-4574-919c-40236b9cef11-300x300.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\keo-trang-tri-premier-win-3-fcea24aa-feae-4574-919c-40236b9cef11-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/keo-trang-tri-premier-win-3-fcea24aa-feae-4574-919c-40236b9cef11-510x510.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\keo-trang-tri-premier-win-3-fcea24aa-feae-4574-919c-40236b9cef11-510x510.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/keo-trang-tri-premier-win-3-fcea24aa-feae-4574-919c-40236b9cef11-768x768.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\keo-trang-tri-premier-win-3-fcea24aa-feae-4574-919c-40236b9cef11-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/keo-trang-tri-premier-win-3-fcea24aa-feae-4574-919c-40236b9cef11.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\keo-trang-tri-premier-win-3-fcea24aa-feae-4574-919c-40236b9cef11.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/mach-ban-cach-an-banh-trung-thu-ma-van-giu-duoc-voc-dang-7-300x294.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\mach-ban-cach-an-banh-trung-thu-ma-van-giu-duoc-voc-dang-7-300x294.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/mach-ban-cach-an-banh-trung-thu-ma-van-giu-duoc-voc-dang-7-510x500.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\mach-ban-cach-an-banh-trung-thu-ma-van-giu-duoc-voc-dang-7-510x500.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/mach-ban-cach-an-banh-trung-thu-ma-van-giu-duoc-voc-dang-7.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\mach-ban-cach-an-banh-trung-thu-ma-van-giu-duoc-voc-dang-7.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/mau-do-giang-sinh-100x100.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\mau-do-giang-sinh-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/mau-do-giang-sinh-150x150.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\mau-do-giang-sinh-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/mau-do-giang-sinh-247x296.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\mau-do-giang-sinh-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/mau-do-giang-sinh-300x300.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\mau-do-giang-sinh-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/mau-do-giang-sinh-510x508.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\mau-do-giang-sinh-510x508.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/mau-do-giang-sinh-768x765.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\mau-do-giang-sinh-768x765.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/mau-do-giang-sinh.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\mau-do-giang-sinh.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/mut-dua-2-100x100.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\mut-dua-2-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/mut-dua-2-150x150.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\mut-dua-2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/mut-dua-2-247x296.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\mut-dua-2-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/mut-dua-2-300x300.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\mut-dua-2-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/mut-dua-2.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\mut-dua-2.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/mut-hat-phi-nutella-100x100.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\mut-hat-phi-nutella-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/mut-hat-phi-nutella-150x150.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\mut-hat-phi-nutella-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/mut-hat-phi-nutella-247x296.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\mut-hat-phi-nutella-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/mut-hat-phi-nutella-300x300.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\mut-hat-phi-nutella-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/mut-hat-phi-nutella.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\mut-hat-phi-nutella.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/nguon-goc-va-y-nghia-cua-banh-trung-thu-khong-phai-ai-cung-biet-2-300x214.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\nguon-goc-va-y-nghia-cua-banh-trung-thu-khong-phai-ai-cung-biet-2-300x214.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/nguon-goc-va-y-nghia-cua-banh-trung-thu-khong-phai-ai-cung-biet-2.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\nguon-goc-va-y-nghia-cua-banh-trung-thu-khong-phai-ai-cung-biet-2.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/product_banner_right_2-268x300.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\product_banner_right_2-268x300.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/product_banner_right_2.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\product_banner_right_2.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/quay-tro-ve-tuoi-tho-voi-cach-lam-banh-duong-dua-thom-lung-can-bep-4-300x225.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\quay-tro-ve-tuoi-tho-voi-cach-lam-banh-duong-dua-thom-lung-can-bep-4-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/quay-tro-ve-tuoi-tho-voi-cach-lam-banh-duong-dua-thom-lung-can-bep-4-510x383.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\quay-tro-ve-tuoi-tho-voi-cach-lam-banh-duong-dua-thom-lung-can-bep-4-510x383.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/quay-tro-ve-tuoi-tho-voi-cach-lam-banh-duong-dua-thom-lung-can-bep-4-768x576.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\quay-tro-ve-tuoi-tho-voi-cach-lam-banh-duong-dua-thom-lung-can-bep-4-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/quay-tro-ve-tuoi-tho-voi-cach-lam-banh-duong-dua-thom-lung-can-bep-4.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\quay-tro-ve-tuoi-tho-voi-cach-lam-banh-duong-dua-thom-lung-can-bep-4.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/san_pham_lam_tu_bot_hoa_ngoc_lan.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\san_pham_lam_tu_bot_hoa_ngoc_lan.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/slider12-300x200.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\slider12-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/slider12-510x340.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\slider12-510x340.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/slider12-768x513.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\slider12-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/slider12.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\slider12.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/slider2-300x200.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\slider2-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/slider2-510x340.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\slider2-510x340.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/slider2-768x513.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\slider2-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/slider2.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\slider2.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/tb1ejxcrfxxxxx0xvxxxxxxxxxx-0-item-pic-jpg-600x600-100x100.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\tb1ejxcrfxxxxx0xvxxxxxxxxxx-0-item-pic-jpg-600x600-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/tb1ejxcrfxxxxx0xvxxxxxxxxxx-0-item-pic-jpg-600x600-150x150.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\tb1ejxcrfxxxxx0xvxxxxxxxxxx-0-item-pic-jpg-600x600-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/tb1ejxcrfxxxxx0xvxxxxxxxxxx-0-item-pic-jpg-600x600-247x296.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\tb1ejxcrfxxxxx0xvxxxxxxxxxx-0-item-pic-jpg-600x600-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/tb1ejxcrfxxxxx0xvxxxxxxxxxx-0-item-pic-jpg-600x600-300x300.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\tb1ejxcrfxxxxx0xvxxxxxxxxxx-0-item-pic-jpg-600x600-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/tb1ejxcrfxxxxx0xvxxxxxxxxxx-0-item-pic-jpg-600x600-510x510.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\tb1ejxcrfxxxxx0xvxxxxxxxxxx-0-item-pic-jpg-600x600-510x510.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/tb1ejxcrfxxxxx0xvxxxxxxxxxx-0-item-pic-jpg-600x600.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\tb1ejxcrfxxxxx0xvxxxxxxxxxx-0-item-pic-jpg-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/tb1hawrmpxxxxajaxxxxxxxxxxx-0-item-pic-jpg-600x600-b189d722-0c1a-4693-900e-74b47d102910-100x100.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\tb1hawrmpxxxxajaxxxxxxxxxxx-0-item-pic-jpg-600x600-b189d722-0c1a-4693-900e-74b47d102910-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/tb1hawrmpxxxxajaxxxxxxxxxxx-0-item-pic-jpg-600x600-b189d722-0c1a-4693-900e-74b47d102910-150x150.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\tb1hawrmpxxxxajaxxxxxxxxxxx-0-item-pic-jpg-600x600-b189d722-0c1a-4693-900e-74b47d102910-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/tb1hawrmpxxxxajaxxxxxxxxxxx-0-item-pic-jpg-600x600-b189d722-0c1a-4693-900e-74b47d102910-247x296.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\tb1hawrmpxxxxajaxxxxxxxxxxx-0-item-pic-jpg-600x600-b189d722-0c1a-4693-900e-74b47d102910-247x296.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/tb1hawrmpxxxxajaxxxxxxxxxxx-0-item-pic-jpg-600x600-b189d722-0c1a-4693-900e-74b47d102910-300x300.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\tb1hawrmpxxxxajaxxxxxxxxxxx-0-item-pic-jpg-600x600-b189d722-0c1a-4693-900e-74b47d102910-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/tb1hawrmpxxxxajaxxxxxxxxxxx-0-item-pic-jpg-600x600-b189d722-0c1a-4693-900e-74b47d102910-510x510.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\tb1hawrmpxxxxajaxxxxxxxxxxx-0-item-pic-jpg-600x600-b189d722-0c1a-4693-900e-74b47d102910-510x510.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/tb1hawrmpxxxxajaxxxxxxxxxxx-0-item-pic-jpg-600x600-b189d722-0c1a-4693-900e-74b47d102910.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\tb1hawrmpxxxxajaxxxxxxxxxxx-0-item-pic-jpg-600x600-b189d722-0c1a-4693-900e-74b47d102910.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/thach-dua-trai-cay-ngot-mat-71-291x300.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\thach-dua-trai-cay-ngot-mat-71-291x300.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/thach-dua-trai-cay-ngot-mat-71-510x525.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\thach-dua-trai-cay-ngot-mat-71-510x525.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2017/10/thach-dua-trai-cay-ngot-mat-71.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\thach-dua-trai-cay-ngot-mat-71.jpg
+Content Type: image/jpeg
+
+Uri: https://banhngot.webtudong8giay.com/wp-content/uploads/2018/05/logo.png
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2018\05\logo.png
+Content Type: image/png
+
+Uri: https://banhngot.webtudong8giay.com/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://banhngot.webtudong8giay.com/wp-includes/css/dashicons.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-includes\css\dashicons.min.css
+Content Type: text/css
+
+Uri: https://banhngot.webtudong8giay.com/wp-includes/css/dist/block-library/style.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://banhngot.webtudong8giay.com/wp-includes/fonts/dashicons.eot?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-includes\fonts\dashicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://banhngot.webtudong8giay.com/wp-includes/fonts/dashicons.ttf?99ac726223c749443b642ce33df8b800
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-includes\fonts\dashicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://banhngot.webtudong8giay.com/wp-includes/js/comment-reply.min.js?ver=6.1
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: https://banhngot.webtudong8giay.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://banhngot.webtudong8giay.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://banhngot.webtudong8giay.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://banhngot.webtudong8giay.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://banhngot.webtudong8giay.com/wp-includes/js/hoverIntent.min.js?ver=1.10.2
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-includes\js\hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://banhngot.webtudong8giay.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://banhngot.webtudong8giay.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://banhngot.webtudong8giay.com/wp-includes/js/zxcvbn-async.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-includes\js\zxcvbn-async.min.js
+Content Type: application/javascript
+
+Uri: https://banhngot.webtudong8giay.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2F
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fcac-mon-thach-cuc-ky-hap-dan-o-ha-noi-trong-ngay-he%2F
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fcac-mon-thach-cuc-ky-hap-dan-o-ha-noi-trong-ngay-he%2F&format=xml
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fcach-lam-banh-troi-banh-chay-don-gian-nhat-cho-tet-han-thuc%2F
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fcach-lam-banh-troi-banh-chay-don-gian-nhat-cho-tet-han-thuc%2F&format=xml
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fchao-moi-nguoi%2F
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-52
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fchao-moi-nguoi%2F&format=xml
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-53
+Content Type: text/xml
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fchinh-sach-doi-tra-hang%2F
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fchinh-sach-doi-tra-hang%2F&format=xml
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fchinh-sach-giao-hang%2F
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fchinh-sach-giao-hang%2F&format=xml
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fhang-moi-ve%2F
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fhang-moi-ve%2F&format=xml
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Flien-he%2F
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Flien-he%2F&format=xml
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Flop-hoc-lam-banh%2F
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Flop-hoc-lam-banh%2F&format=xml
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fmach-ban-cach-an-banh-trung-thu-ma-van-giu-duoc-voc-dang%2F
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fmach-ban-cach-an-banh-trung-thu-ma-van-giu-duoc-voc-dang%2F&format=xml
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fsan-pham%2Fbo-co-quet-spatula%2F
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-48
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fsan-pham%2Fbo-co-quet-spatula%2F&format=xml
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-49
+Content Type: text/xml
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fsan-pham%2Fbo-lat-president-250g%2F
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-42
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fsan-pham%2Fbo-lat-president-250g%2F&format=xml
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-43
+Content Type: text/xml
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fsan-pham%2Fbot-cacao-premier-win-250gr%2F
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-44
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fsan-pham%2Fbot-cacao-premier-win-250gr%2F&format=xml
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-45
+Content Type: text/xml
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fsan-pham%2Fbot-lam-banh-3-bong-hong-xanh-500g%2F
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-38
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fsan-pham%2Fbot-lam-banh-3-bong-hong-xanh-500g%2F&format=xml
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-39
+Content Type: text/xml
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fsan-pham%2Fbot-my-hoa-ngoc-lan-1kg%2F
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-46
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fsan-pham%2Fbot-my-hoa-ngoc-lan-1kg%2F&format=xml
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-47
+Content Type: text/xml
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fsan-pham%2Fbot-my-hoa-ngoc-lan-1kg-han-quoc%2F
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-40
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fsan-pham%2Fbot-my-hoa-ngoc-lan-1kg-han-quoc%2F&format=xml
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-41
+Content Type: text/xml
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fsan-pham%2Fcombo-san-pham-decor-chup-anh-tren-da-cam-thach%2F
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-36
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fsan-pham%2Fcombo-san-pham-decor-chup-anh-tren-da-cam-thach%2F&format=xml
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-37
+Content Type: text/xml
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fsan-pham%2Fduong-ngoc-trai-amoza-300gr-han-quoc%2F
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-30
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fsan-pham%2Fduong-ngoc-trai-amoza-300gr-han-quoc%2F&format=xml
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-31
+Content Type: text/xml
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fsan-pham%2Fhat-phi-phet-cacao-nutella-680g%2F
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-28
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fsan-pham%2Fhat-phi-phet-cacao-nutella-680g%2F&format=xml
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-29
+Content Type: text/xml
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fsan-pham%2Fkeo-trang-tri-hat-mau-sac-premierwin-500g%2F
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-26
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fsan-pham%2Fkeo-trang-tri-hat-mau-sac-premierwin-500g%2F&format=xml
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-27
+Content Type: text/xml
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fsan-pham%2Fmau-do-giang-sinh-wilton-nhap-khau-nhat-ban%2F
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-32
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fsan-pham%2Fmau-do-giang-sinh-wilton-nhap-khau-nhat-ban%2F&format=xml
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-33
+Content Type: text/xml
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fsan-pham%2Fmut-dua-imperial-thai-lan-280g-chat-luong-cao%2F
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-34
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fsan-pham%2Fmut-dua-imperial-thai-lan-280g-chat-luong-cao%2F&format=xml
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-35
+Content Type: text/xml
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fsan-pham%2Framenkin-mau-sac-loai-to-xuat-xu-nhat-ban%2F
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-50
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Fsan-pham%2Framenkin-mau-sac-loai-to-xuat-xu-nhat-ban%2F&format=xml
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-51
+Content Type: text/xml
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Ftai-khoan%2F
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Ftai-khoan%2F&format=xml
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Ftich-luy-diem-thuong%2F
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Ftich-luy-diem-thuong%2F&format=xml
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Ftim-hieu-nguon-goc-va-y-nghia-cua-banh-trung-thu%2F
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-22
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Ftim-hieu-nguon-goc-va-y-nghia-cua-banh-trung-thu%2F&format=xml
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-23
+Content Type: text/xml
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Ftro-ve-tuoi-tho-voi-cach-lam-banh-duong-thom-lung-can-bep%2F
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-24
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fbanhngot.webtudong8giay.com%2Ftro-ve-tuoi-tho-voi-cach-lam-banh-duong-thom-lung-can-bep%2F&format=xml
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\oembed\1.0\embed-25
+Content Type: text/xml
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/categories/1
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\categories\1
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/categories/24
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\categories\24
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/pages/12
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\pages\12
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/pages/120
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\pages\120
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/pages/122
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\pages\122
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/pages/124
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\pages\124
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/pages/2
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\pages\2
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/pages/224
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\pages\224
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/pages/236
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\pages\236
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/pages/253
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\pages\253
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/posts/1
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\posts\1
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/posts/256
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\posts\256
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/posts/259
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\posts\259
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/posts/262
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\posts\262
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/posts/265
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\posts\265
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/posts/288
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\posts\288
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product/337
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product\337
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product/375
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product\375
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product/380
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product\380
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product/383
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product\383
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product/395
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product\395
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product/564
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product\564
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product/565
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product\565
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product/567
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product\567
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product/569
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product\569
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product/571
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product\571
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product/573
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product\573
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product/575
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product\575
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product/577
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product\577
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product_cat/18
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product_cat\18
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product_cat/19
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product_cat\19
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product_cat/20
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product_cat\20
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product_cat/21
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product_cat\21
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product_cat/22
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product_cat\22
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product_cat/23
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product_cat\23
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product_cat/25
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product_cat\25
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product_cat/26
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product_cat\26
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product_cat/27
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product_cat\27
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product_cat/28
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product_cat\28
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product_cat/29
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product_cat\29
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product_cat/30
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product_cat\30
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product_cat/31
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product_cat\31
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product_cat/32
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product_cat\32
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product_cat/33
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product_cat\33
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product_cat/35
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product_cat\35
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product_cat/36
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product_cat\36
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product_cat/37
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product_cat\37
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product_cat/38
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product_cat\38
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product_cat/39
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product_cat\39
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product_cat/40
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product_cat\40
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product_cat/41
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product_cat\41
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product_cat/42
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product_cat\42
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/product_cat/43
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\product_cat\43
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/wp-json/wp/v2/users/2
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-json\wp\v2\users\2
+Content Type: application/json
+
+Uri: https://banhngot.webtudong8giay.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://bizweb.dktcdn.net/100/004/714/files/keo-trang-tri-premier-win-5.jpg?v=1486526022082
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\100\004\714\files\keo-trang-tri-premier-win-5.jpg
+Content Type: image/jpeg
+
+Uri: https://bizweb.dktcdn.net/100/004/714/files/mut-dua-2.jpg?v=1495251021784
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\100\004\714\files\mut-dua-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bizweb.dktcdn.net/100/004/714/files/mut-dua.jpg?v=1495251001001
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\100\004\714\files\mut-dua.jpg
+Content Type: image/jpeg
+
+Uri: https://bizweb.dktcdn.net/100/004/714/files/mut-hat-phi-nutella-3.jpg?v=1492072549677
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\100\004\714\files\mut-hat-phi-nutella-3.jpg
+Content Type: image/jpeg
+
+Uri: https://bizweb.dktcdn.net/100/004/714/files/mut-hat-phi-nutella.jpg?v=1492072527465
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\100\004\714\files\mut-hat-phi-nutella.jpg
+Content Type: image/jpeg
+
+Uri: https://bizweb.dktcdn.net/100/004/714/products/combo-decor-6.jpg?v=1498278413270
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\100\004\714\products\combo-decor-6.jpg
+Content Type: image/jpeg
+
+Uri: https://bizweb.dktcdn.net/100/004/714/products/da-cam-thach-2.jpg?v=1498279076733
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\100\004\714\products\da-cam-thach-2.jpg
+Content Type: image/jpeg
+
+Uri: https://bizweb.dktcdn.net/100/004/714/products/duong-ngoc-trai-amoza.jpg?v=1490861912553
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\100\004\714\products\duong-ngoc-trai-amoza.jpg
+Content Type: image/jpeg
+
+Uri: https://bizweb.dktcdn.net/100/004/714/products/keo-trang-tri-premier-win-1-6944f74d-7281-422a-afc4-638fb9c107f0.jpg?v=1486522816833
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\100\004\714\products\keo-trang-tri-premier-win-1-6944f74d-7281-422a-afc4-638fb9c107f0.jpg
+Content Type: image/jpeg
+
+Uri: https://bizweb.dktcdn.net/100/004/714/products/keo-trang-tri-premier-win-3-fcea24aa-feae-4574-919c-40236b9cef11.jpg?v=1486522812360
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\100\004\714\products\keo-trang-tri-premier-win-3-fcea24aa-feae-4574-919c-40236b9cef11.jpg
+Content Type: image/jpeg
+
+Uri: https://bizweb.dktcdn.net/100/004/714/products/mau-do-giang-sinh-wilton.jpg?v=1497520861697
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\100\004\714\products\mau-do-giang-sinh-wilton.jpg
+Content Type: image/jpeg
+
+Uri: https://bizweb.dktcdn.net/100/004/714/products/mau-do-giang-sinh.jpg?v=1497520861697
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\100\004\714\products\mau-do-giang-sinh.jpg
+Content Type: image/jpeg
+
+Uri: https://bizweb.dktcdn.net/100/004/714/products/tb1ejxcrfxxxxx0xvxxxxxxxxxx-0-item-pic-jpg-600x600.jpg?v=1498127631737
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\100\004\714\products\tb1ejxcrfxxxxx0xvxxxxxxxxxx-0-item-pic-jpg-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://bizweb.dktcdn.net/100/004/714/products/tb1hawrmpxxxxajaxxxxxxxxxxx-0-item-pic-jpg-600x600-b189d722-0c1a-4693-900e-74b47d102910.jpg?v=1460955521890
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\100\004\714\products\tb1hawrmpxxxxajaxxxxxxxxxxx-0-item-pic-jpg-600x600-b189d722-0c1a-4693-900e-74b47d102910.jpg
+Content Type: image/jpeg
+
+Uri: https://bizweb.dktcdn.net/100/004/714/products/tb1i-zhjvxxxxc-xfxxxxxxxxxx-0-item-pic-jpg-600x600.jpg?v=1460954560607
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\100\004\714\products\tb1i-zhjvxxxxc-xfxxxxxxxxxx-0-item-pic-jpg-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://bizweb.dktcdn.net/100/004/714/products/tb26v12t9fjpufjsszhxxabuvxa-2965865072.jpg?v=1498127656807
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\100\004\714\products\tb26v12t9fjpufjsszhxxabuvxa-2965865072.jpg
+Content Type: image/jpeg
+
+Uri: https://bizweb.dktcdn.net/100/004/714/products/tb2nt1gt88lpufjsspaxxxjkpxa-2965865072-jpg-600x600.jpg?v=1498127651690
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\100\004\714\products\tb2nt1gt88lpufjsspaxxxjkpxa-2965865072-jpg-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://bizweb.dktcdn.net/100/004/714/products/tb2ppjwt9tkpufjy0fhxxxqzfxa-2965865072-jpg-600x600.jpg?v=1498127653827
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\100\004\714\products\tb2ppjwt9tkpufjy0fhxxxqzfxa-2965865072-jpg-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://bizweb.dktcdn.net/thumb/large/100/004/714/products/1140709bot-hoa-ngoc-lan.jpg?v=1458558167957
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\thumb\large\100\004\714\products\1140709bot-hoa-ngoc-lan.jpg
+Content Type: image/jpeg
+
+Uri: https://bizweb.dktcdn.net/thumb/large/100/004/714/products/bo-co-quet-spatula-2.jpg?v=1458812652527
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\thumb\large\100\004\714\products\bo-co-quet-spatula-2.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.beemart.vn/wp-content/uploads/2015/05/nguyen-lieu-co-ban-lam-banh-trung-thu-1.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2015\05\nguyen-lieu-co-ban-lam-banh-trung-thu-1.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.beemart.vn/wp-content/uploads/2015/06/cac-mon-thach-cuc-ky-hap-dan-o-ha-noi-trong-ngay-he-1.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2015\06\cac-mon-thach-cuc-ky-hap-dan-o-ha-noi-trong-ngay-he-1.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.beemart.vn/wp-content/uploads/2015/06/cac-mon-thach-cuc-ky-hap-dan-o-ha-noi-trong-ngay-he-2.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2015\06\cac-mon-thach-cuc-ky-hap-dan-o-ha-noi-trong-ngay-he-2.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.beemart.vn/wp-content/uploads/2015/06/cac-mon-thach-cuc-ky-hap-dan-o-ha-noi-trong-ngay-he-3.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2015\06\cac-mon-thach-cuc-ky-hap-dan-o-ha-noi-trong-ngay-he-3.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.beemart.vn/wp-content/uploads/2015/06/cac-mon-thach-cuc-ky-hap-dan-o-ha-noi-trong-ngay-he-41.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2015\06\cac-mon-thach-cuc-ky-hap-dan-o-ha-noi-trong-ngay-he-41.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.beemart.vn/wp-content/uploads/2015/06/cac-mon-thach-cuc-ky-hap-dan-o-ha-noi-trong-ngay-he-5.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2015\06\cac-mon-thach-cuc-ky-hap-dan-o-ha-noi-trong-ngay-he-5.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.beemart.vn/wp-content/uploads/2015/06/cac-mon-thach-cuc-ky-hap-dan-o-ha-noi-trong-ngay-he-6.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2015\06\cac-mon-thach-cuc-ky-hap-dan-o-ha-noi-trong-ngay-he-6.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.beemart.vn/wp-content/uploads/2015/06/he-nay-them-la-mieng-voi-2-cach-lam-banh-trung-thach-3.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2015\06\he-nay-them-la-mieng-voi-2-cach-lam-banh-trung-thach-3.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.beemart.vn/wp-content/uploads/2015/06/thach-dua-trai-cay-ngot-mat-71.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2015\06\thach-dua-trai-cay-ngot-mat-71.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.beemart.vn/wp-content/uploads/2015/07/banh-deo-tuyet-tra-xanh-cho-trung-thu-4.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2015\07\banh-deo-tuyet-tra-xanh-cho-trung-thu-4.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.beemart.vn/wp-content/uploads/2015/07/mach-ban-cach-an-banh-trung-thu-ma-van-giu-duoc-voc-dang-2.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2015\07\mach-ban-cach-an-banh-trung-thu-ma-van-giu-duoc-voc-dang-2.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.beemart.vn/wp-content/uploads/2015/07/mach-ban-cach-an-banh-trung-thu-ma-van-giu-duoc-voc-dang-3.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2015\07\mach-ban-cach-an-banh-trung-thu-ma-van-giu-duoc-voc-dang-3.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.beemart.vn/wp-content/uploads/2015/07/mach-ban-cach-an-banh-trung-thu-ma-van-giu-duoc-voc-dang-4.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2015\07\mach-ban-cach-an-banh-trung-thu-ma-van-giu-duoc-voc-dang-4.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.beemart.vn/wp-content/uploads/2015/07/mach-ban-cach-an-banh-trung-thu-ma-van-giu-duoc-voc-dang-5.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2015\07\mach-ban-cach-an-banh-trung-thu-ma-van-giu-duoc-voc-dang-5.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.beemart.vn/wp-content/uploads/2015/07/mach-ban-cach-an-banh-trung-thu-ma-van-giu-duoc-voc-dang-6.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2015\07\mach-ban-cach-an-banh-trung-thu-ma-van-giu-duoc-voc-dang-6.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.beemart.vn/wp-content/uploads/2015/07/mach-ban-cach-an-banh-trung-thu-ma-van-giu-duoc-voc-dang-7.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2015\07\mach-ban-cach-an-banh-trung-thu-ma-van-giu-duoc-voc-dang-7.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.beemart.vn/wp-content/uploads/2016/06/nguon-goc-va-y-nghia-cua-banh-trung-thu-khong-phai-ai-cung-biet-1.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2016\06\nguon-goc-va-y-nghia-cua-banh-trung-thu-khong-phai-ai-cung-biet-1.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.beemart.vn/wp-content/uploads/2016/06/nguon-goc-va-y-nghia-cua-banh-trung-thu-khong-phai-ai-cung-biet-2.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2016\06\nguon-goc-va-y-nghia-cua-banh-trung-thu-khong-phai-ai-cung-biet-2.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.beemart.vn/wp-content/uploads/2016/06/nguon-goc-va-y-nghia-cua-banh-trung-thu-khong-phai-ai-cung-biet-3.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2016\06\nguon-goc-va-y-nghia-cua-banh-trung-thu-khong-phai-ai-cung-biet-3.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.beemart.vn/wp-content/uploads/2016/06/nguon-goc-va-y-nghia-cua-banh-trung-thu-khong-phai-ai-cung-biet-4.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2016\06\nguon-goc-va-y-nghia-cua-banh-trung-thu-khong-phai-ai-cung-biet-4.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.beemart.vn/wp-content/uploads/2017/10/quay-tro-ve-tuoi-tho-voi-cach-lam-banh-duong-dua-thom-lung-can-bep-1.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\quay-tro-ve-tuoi-tho-voi-cach-lam-banh-duong-dua-thom-lung-can-bep-1.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.beemart.vn/wp-content/uploads/2017/10/quay-tro-ve-tuoi-tho-voi-cach-lam-banh-duong-dua-thom-lung-can-bep-2.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\quay-tro-ve-tuoi-tho-voi-cach-lam-banh-duong-dua-thom-lung-can-bep-2.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.beemart.vn/wp-content/uploads/2017/10/quay-tro-ve-tuoi-tho-voi-cach-lam-banh-duong-dua-thom-lung-can-bep-3.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\quay-tro-ve-tuoi-tho-voi-cach-lam-banh-duong-dua-thom-lung-can-bep-3.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.beemart.vn/wp-content/uploads/2017/10/quay-tro-ve-tuoi-tho-voi-cach-lam-banh-duong-dua-thom-lung-can-bep-4.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\quay-tro-ve-tuoi-tho-voi-cach-lam-banh-duong-dua-thom-lung-can-bep-4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.beemart.vn/wp-content/uploads/2017/10/quay-tro-ve-tuoi-tho-voi-cach-lam-banh-duong-dua-thom-lung-can-bep-5.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\quay-tro-ve-tuoi-tho-voi-cach-lam-banh-duong-dua-thom-lung-can-bep-5.jpg
+Content Type: image/jpeg
+
+Uri: https://blog.beemart.vn/wp-content/uploads/2017/10/quay-tro-ve-tuoi-tho-voi-cach-lam-banh-duong-dua-thom-lung-can-bep-7.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\wp-content\uploads\2017\10\quay-tro-ve-tuoi-tho-voi-cach-lam-banh-duong-dua-thom-lung-can-bep-7.jpg
+Content Type: image/jpeg
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:regular%2C700%2Cregular%2Cregular|Dancing+Script:regular%2C400&display=swap&ver=3.9
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dancingscript/v24/If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\s\dancingscript\v24\If2cXTr6YS-zF4S-kcSWSVi_sxjsohD9F50Ruu7BMSo3Sup5.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://img-global.cpcdn.com/005_steps/awqf6nwnkgdgizwy8yxw/480x360cq70/photo.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\005_steps\awqf6nwnkgdgizwy8yxw\480x360cq70\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://img-global.cpcdn.com/005_steps/chclbe4x9vpn2vfffvqp/480x360cq70/photo.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\005_steps\chclbe4x9vpn2vfffvqp\480x360cq70\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://img-global.cpcdn.com/005_steps/fuoo5oynqx9lmg0x92z2/480x360cq70/photo.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\005_steps\fuoo5oynqx9lmg0x92z2\480x360cq70\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://img-global.cpcdn.com/005_steps/jynor1knfaivq6ornytu/480x360cq70/photo.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\005_steps\jynor1knfaivq6ornytu\480x360cq70\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://img-global.cpcdn.com/005_steps/wzkmpe24aozqkfxm37b9/480x360cq70/photo.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\005_steps\wzkmpe24aozqkfxm37b9\480x360cq70\photo.jpg
+Content Type: image/jpeg
+
+Uri: https://imgs.vietnamnet.vn/Images/2017/03/29/11/20170329114108-banh-troi-3.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\Images\2017\03\29\11\20170329114108-banh-troi-3.jpg
+Content Type: image/jpeg
+
+Uri: https://imgs.vietnamnet.vn/Images/2017/03/29/11/20170329114108-banh-troi-5.jpg
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\Images\2017\03\29\11\20170329114108-banh-troi-5.jpg
+Content Type: image/jpeg
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fbanhngot.webtudong8giay.com%252Fcac-mon-thach-cuc-ky-hap-dan-o-ha-noi-trong-ngay-he%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\login-1.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fbanhngot.webtudong8giay.com%252Fcach-lam-banh-troi-banh-chay-don-gian-nhat-cho-tet-han-thuc%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\login.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fbanhngot.webtudong8giay.com%252Fchao-moi-nguoi%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\login-18.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fbanhngot.webtudong8giay.com%252Fmach-ban-cach-an-banh-trung-thu-ma-van-giu-duoc-voc-dang%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\login-2.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fbanhngot.webtudong8giay.com%252Fsan-pham%252Fbo-co-quet-spatula%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\login-16.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fbanhngot.webtudong8giay.com%252Fsan-pham%252Fbo-lat-president-250g%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\login-13.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fbanhngot.webtudong8giay.com%252Fsan-pham%252Fbot-cacao-premier-win-250gr%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\login-14.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fbanhngot.webtudong8giay.com%252Fsan-pham%252Fbot-lam-banh-3-bong-hong-xanh-500g%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\login-11.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fbanhngot.webtudong8giay.com%252Fsan-pham%252Fbot-my-hoa-ngoc-lan-1kg%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\login-15.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fbanhngot.webtudong8giay.com%252Fsan-pham%252Fbot-my-hoa-ngoc-lan-1kg-han-quoc%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\login-12.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fbanhngot.webtudong8giay.com%252Fsan-pham%252Fcombo-san-pham-decor-chup-anh-tren-da-cam-thach%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\login-10.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fbanhngot.webtudong8giay.com%252Fsan-pham%252Fduong-ngoc-trai-amoza-300gr-han-quoc%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\login-7.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fbanhngot.webtudong8giay.com%252Fsan-pham%252Fhat-phi-phet-cacao-nutella-680g%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\login-6.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fbanhngot.webtudong8giay.com%252Fsan-pham%252Fkeo-trang-tri-hat-mau-sac-premierwin-500g%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\login-5.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fbanhngot.webtudong8giay.com%252Fsan-pham%252Fmau-do-giang-sinh-wilton-nhap-khau-nhat-ban%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\login-8.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fbanhngot.webtudong8giay.com%252Fsan-pham%252Fmut-dua-imperial-thai-lan-280g-chat-luong-cao%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\login-9.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fbanhngot.webtudong8giay.com%252Fsan-pham%252Framenkin-mau-sac-loai-to-xuat-xu-nhat-ban%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\login-17.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fbanhngot.webtudong8giay.com%252Ftim-hieu-nguon-goc-va-y-nghia-cua-banh-trung-thu%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\login-3.php
+Content Type: application/xhtml+xml
+
+Uri: https://m.facebook.com/login.php?skip_api_login=1&api_key=966242223397117&signed_next=1&next=https:%2F%2Fm.facebook.com%2Fsharer.php%3Fu%3Dhttps%253A%252F%252Fbanhngot.webtudong8giay.com%252Ftro-ve-tuoi-tho-voi-cach-lam-banh-duong-thom-lung-can-bep%252F&cancel_url=https:%2F%2Fm.facebook.com%2Fdialog%2Fclose_window%2F%3Fapp_id%3D966242223397117%26connect%3D0%23_%3D_&display=touch&locale=en_GB&_rdr
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\login-4.php
+Content Type: application/xhtml+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=6.1
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\banhngot.webtudong8giay.com\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
